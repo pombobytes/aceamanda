@@ -35,3 +35,12 @@
 - 📫 Gmail **amandacamposlima@gmail.com**
 - 💻 Linkedin **www.linkedin.com/in/amandabormann**
 - ⚡ Fun fact **Gosto de criar jogos!**
+
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aceamanda/aceamanda/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aceamanda/aceamanda/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/aceamanda/aceamanda/output/pacman-contribution-graph.svg">
+</picture>
+
+_creditos [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_
+
